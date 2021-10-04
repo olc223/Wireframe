@@ -1,0 +1,81 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;}
+ 
+ 
+ div.box {
+    width: 100%;
+    height:200px;
+    background-color: blueviolet;
+    margin: auto;
+    text-align: center;}
+ 
+ div.box2 {
+    width: 50%;
+    height:200px;
+    background-color: rgb(192, 226, 43);
+    margin: auto;
+    text-align: center;
+    float: left;}
+ 
+ div.box3 {
+    width: 50%;
+    height:200px;
+    background-color: orange;
+    margin: auto;
+    text-align: center;
+    float: right;}
+ 
+ div.box4 {
+    width: 75%;
+    height:200px;
+    background-color: turquoise;
+    margin: auto;
+    text-align: center;
+    float: left;}
+ 
+ div.box5 {
+    width: 25%;
+    height:200px;
+    background-color: blueviolet;
+    margin: auto;
+    text-align: center;
+    float: right;}
+ 
+ div.box6 {
+    width: 33.3%;
+    height:200px;
+    background-color: rgb(192, 226, 43);
+    margin: auto;
+    text-align: center;
+    float: left;}
+ 
+ div.box7 {
+    width: 33.3%;
+    height:200px;
+    background-color: orange;
+    margin: auto;
+    text-align: center;
+    float: left;}
+ 
+ div.box8 {
+    width: 33.3%;
+    height:200px;
+    background-color: rgb(192, 226, 43);
+    margin: auto;
+    text-align: center;
+    float: left;}
+ 
+ div.box9 {
+    width: 100%;
+    height:200px;
+    background-color: turquoise;
+    margin: auto;
+    text-align: center;}
+ 
+ div.box10 {
+    width: 100%;
+    height:50px;
+    background-color: blueviolet;
+    margin: auto;
+    text-align: center;}
